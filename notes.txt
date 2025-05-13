@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 1er lignes de notes 
-=======
-1ére  lignes de notes 
->>>>>>> test
 Deuxieme ligne de note. 
 troisieme ligne (feature)
